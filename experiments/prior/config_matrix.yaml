@@ -11,7 +11,7 @@ tasks: [1, 4]
 variants:
   - name: "conservative_1pass"
     author_temperature: 0.4
-    judge_temperature: 0.2
+    judge_temperature: 0.3
     passes: 1
 
   - name: "conservative_2pass"
