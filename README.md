@@ -230,7 +230,7 @@ Aeris Research is exploring what happens when AI becomes more than a chatbot.
 
 # Links
 
-
+```
 Twitter:
 
 https://x.com/AerisResearchs
