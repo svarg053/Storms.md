@@ -1,6 +1,6 @@
-# Aeris Research: Building the Next Generation of AI Agents
+# Storms Agents: Building the Next Generation of AI Agents
 
-**AERIS RESEARCH | HERMES AGENT**
+**STORMS AGENTS | STORMS.MD**
 
 Research · Experiments · Open Source
 
@@ -10,15 +10,15 @@ Research · Experiments · Open Source
 
 Most AI systems today are optimized for conversation.
 
-They answer.
-They generate.
+They answer.  
+They generate.  
 They complete.
 
 But intelligence requires more.
 
-Aeris Research explores autonomous AI systems that can reason, remember, evaluate, and improve over time.
+Storms Agents explores autonomous AI systems that can reason, remember, evaluate, and improve over time.
 
-Hermes Agent is an experimental framework focused on building agents capable of:
+Storms.md is an experimental framework focused on building agents capable of:
 
 - Long-term memory
 - Autonomous planning
@@ -45,7 +45,7 @@ Response
 Done
 ```
 
-Aeris AI:
+Storms Agents:
 
 ```
 Goal
@@ -75,7 +75,7 @@ Improved Future Actions
 
 ---
 
-# Hermes Agent Architecture
+# Storms Agent Architecture
 
 ```
               User Goal
@@ -102,11 +102,11 @@ Improved Future Actions
 # Repository Structure
 
 ```
-aeris-research/
+storms/
 
 ├── agents/
 │
-├── hermes/
+├── storms/
 │   ├── planner.py
 │   ├── executor.py
 │   ├── evaluator.py
@@ -128,7 +128,7 @@ aeris-research/
 │   ├── tool-use/
 │   └── memory-tests/
 │
-└── README.md
+└── storms.md
 ```
 
 ---
@@ -144,7 +144,6 @@ Testing whether agents with persistent memory improve:
 - Knowledge retention
 - Future decisions
 
-
 ## Self-Refinement
 
 Exploring whether agents can:
@@ -154,10 +153,7 @@ Exploring whether agents can:
 - Improve future generations
 - Learn from previous attempts
 
-
 ## Multi-Agent Collaboration
-
-Researching agent teams:
 
 ```
 Researcher
@@ -183,14 +179,12 @@ Reviewer
 ✓ Memory layer  
 ✓ Basic workflows  
 
-
 ## Phase 2 — Intelligence
 
 → Self evaluation  
 → Better reasoning  
 → Adaptive planning  
 → Long term learning  
-
 
 ## Phase 3 — Agent Ecosystem
 
@@ -211,18 +205,18 @@ The future of intelligence should be:
 - Transparent
 - Collaborative
 
-Aeris Research is exploring what happens when AI becomes more than a chatbot.
+Storms Agents is exploring what happens when AI becomes more than a chatbot.
 
 ---
 
 # Citation
 
 ```bibtex
-@misc{aeris2026hermes,
-  title={Aeris Research: Hermes Agent},
-  author={Aeris Research},
+@misc{storms2026agents,
+  title={Storms Agents},
+  author={Storms Agents},
   year={2026},
-  url={https://AerisResearch.fun/}
+  url={https://stormsagents.fun/}
 }
 ```
 
@@ -230,15 +224,12 @@ Aeris Research is exploring what happens when AI becomes more than a chatbot.
 
 # Links
 
-```
-Twitter:
-
-https://x.com/AerisResearchs
-
-
 Website:
 
-https://AerisResearch.fun
+https://stormsagents.fun/
 
-Built by Aeris Research
-```
+Twitter:
+
+https://x.com/StormsDotMd
+
+Built by Storms Agents
